@@ -1,0 +1,61 @@
+C:\Users\Steven\Documents\Visual Studio 2010\Projects\StevenNim FinalProject\StevenNim FinalProject\bin\Debug\StevenNim FinalProject.exe
+C:\Users\Steven\Documents\Visual Studio 2010\Projects\StevenNim FinalProject\StevenNim FinalProject\bin\Debug\StevenNim FinalProject.pdb
+C:\Users\Steven\Documents\Visual Studio 2010\Projects\StevenNim FinalProject\StevenNim FinalProject\bin\Debug\StevenNim FinalProject.xml
+C:\Users\Steven\Documents\Visual Studio 2010\Projects\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim_FinalProject.frmTitle.resources
+C:\Users\Steven\Documents\Visual Studio 2010\Projects\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim_FinalProject.Resources.resources
+C:\Users\Steven\Documents\Visual Studio 2010\Projects\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim_FinalProject.frmShop.resources
+C:\Users\Steven\Documents\Visual Studio 2010\Projects\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim FinalProject.vbproj.GenerateResource.Cache
+C:\Users\Steven\Documents\Visual Studio 2010\Projects\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim FinalProject.exe
+C:\Users\Steven\Documents\Visual Studio 2010\Projects\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim FinalProject.xml
+C:\Users\Steven\Documents\Visual Studio 2010\Projects\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim FinalProject.pdb
+F:\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim FinalProject.exe
+F:\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim FinalProject.xml
+F:\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim FinalProject.pdb
+F:\StevenNim FinalProject\StevenNim FinalProject\bin\Debug\StevenNim FinalProject.exe
+F:\StevenNim FinalProject\StevenNim FinalProject\bin\Debug\StevenNim FinalProject.pdb
+F:\StevenNim FinalProject\StevenNim FinalProject\bin\Debug\StevenNim FinalProject.xml
+F:\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim_FinalProject.frmTitle.resources
+F:\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim_FinalProject.Resources.resources
+F:\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim_FinalProject.frmShop.resources
+F:\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim FinalProject.vbproj.GenerateResource.Cache
+E:\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim FinalProject.exe
+E:\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim FinalProject.xml
+E:\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim FinalProject.pdb
+E:\StevenNim FinalProject\StevenNim FinalProject\bin\Debug\StevenNim FinalProject.exe
+E:\StevenNim FinalProject\StevenNim FinalProject\bin\Debug\StevenNim FinalProject.pdb
+E:\StevenNim FinalProject\StevenNim FinalProject\bin\Debug\StevenNim FinalProject.xml
+E:\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim_FinalProject.frmTitle.resources
+E:\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim_FinalProject.Resources.resources
+E:\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim_FinalProject.frmShop.resources
+E:\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim FinalProject.vbproj.GenerateResource.Cache
+K:\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim FinalProject.exe
+K:\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim FinalProject.xml
+K:\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim FinalProject.pdb
+K:\StevenNim FinalProject\StevenNim FinalProject\bin\Debug\StevenNim FinalProject.exe
+K:\StevenNim FinalProject\StevenNim FinalProject\bin\Debug\StevenNim FinalProject.pdb
+K:\StevenNim FinalProject\StevenNim FinalProject\bin\Debug\StevenNim FinalProject.xml
+K:\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim_FinalProject.frmTitle.resources
+K:\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim_FinalProject.Resources.resources
+K:\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim_FinalProject.frmShop.resources
+K:\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim FinalProject.vbproj.GenerateResource.Cache
+F:\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim_FinalProject.frmSecretShop.resources
+K:\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim_FinalProject.frmSecretShop.resources
+C:\Users\Steven\Desktop\VB Final Day bai Day\Day 9 google let me down 8(\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim FinalProject.exe
+C:\Users\Steven\Desktop\VB Final Day bai Day\Day 9 google let me down 8(\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim FinalProject.xml
+C:\Users\Steven\Desktop\VB Final Day bai Day\Day 9 google let me down 8(\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim FinalProject.pdb
+C:\Users\Steven\Desktop\VB Final Day bai Day\Day 10 The Fix\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim FinalProject.exe
+C:\Users\Steven\Desktop\VB Final Day bai Day\Day 10 The Fix\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim FinalProject.xml
+C:\Users\Steven\Desktop\VB Final Day bai Day\Day 10 The Fix\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim FinalProject.pdb
+C:\Users\Steven\Desktop\VB Final Day bai Day\Day 10 The Fix\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim_FinalProject.frmTitle.resources
+C:\Users\Steven\Desktop\VB Final Day bai Day\Day 10 The Fix\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim_FinalProject.frmFwump.resources
+C:\Users\Steven\Desktop\VB Final Day bai Day\Day 10 The Fix\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim_FinalProject.Resources.resources
+C:\Users\Steven\Desktop\VB Final Day bai Day\Day 10 The Fix\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim_FinalProject.frmSecretShop.resources
+C:\Users\Steven\Desktop\VB Final Day bai Day\Day 10 The Fix\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim_FinalProject.frmShop.resources
+C:\Users\Steven\Desktop\VB Final Day bai Day\Day 10 The Fix\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim FinalProject.vbproj.GenerateResource.Cache
+C:\Users\Steven\Desktop\VB Final Day bai Day\Day 10 The Fix\StevenNim FinalProject\StevenNim FinalProject\bin\Debug\StevenNim FinalProject.exe
+C:\Users\Steven\Desktop\VB Final Day bai Day\Day 10 The Fix\StevenNim FinalProject\StevenNim FinalProject\bin\Debug\StevenNim FinalProject.pdb
+C:\Users\Steven\Desktop\VB Final Day bai Day\Day 10 The Fix\StevenNim FinalProject\StevenNim FinalProject\bin\Debug\StevenNim FinalProject.xml
+F:\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim_FinalProject.frmFwump.resources
+K:\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim_FinalProject.frmFwump.resources
+E:\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim_FinalProject.frmFwump.resources
+E:\StevenNim FinalProject\StevenNim FinalProject\obj\x86\Debug\StevenNim_FinalProject.frmSecretShop.resources
